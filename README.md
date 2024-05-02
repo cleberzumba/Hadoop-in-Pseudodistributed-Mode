@@ -1,30 +1,25 @@
-Criação, montagem, instalação, configuração e documentação de um ambiente Big Data com Hadoop Pseudodistributed Mode, contendo o Apache Spark, dois dos frameworks mais avançados para processamento de Big Data,
-e também destacando como esse ambiente pode ser útil para o processamento de Big Data:
+Creation, assembly, installation, configuration and documentation of a Big Data environment with Hadoop Pseudodistributed Mode, containing Apache Spark, two of the most advanced frameworks for Big Data processing, and also highlighting how this environment can be useful for Big Data processing:
 
-*Título: Criação de um ambiente Big Data com Hadoop Pseudodistributed Mode com Apache Spark*
+*Title: Creating a Big Data environment with Hadoop Pseudodistributed Mode with Apache Spark*
 
 
-### Criação e Montagem:
-Desde a montagem física das máquinas até a configuração de rede e armazenamento, cada detalhe foi cuidadosamente planejado. 
-A infraestrutura foi dimensionada para suportar grandes volumes de dados e altas cargas de processamento.
+### Creation and Assembly:
+From the physical assembly of the machines to the network and storage configuration, every detail was carefully planned. The infrastructure was scaled to support large volumes of data and high processing loads.
 
-### Instalação e Configuração:
-O Apache Hadoop é o coração desse ambiente Big Data, fornecendo um sistema de arquivos distribuído (HDFS) e um framework de computação distribuída (YARN). 
-Além disso, o Apache Spark foi instalado para processamento em memória e análise de dados em tempo real. 
+### Installation and Configuration:
+Apache Hadoop is the heart of this Big Data environment, providing a distributed file system (HDFS) and distributed computing framework (YARN). Additionally, Apache Spark was installed for in-memory processing and real-time data analysis.
 
-### Utilidade e Benefícios:
-Este ambiente oferece uma série de benefícios significativos para o processamento de Big Data:
+### Utility and Benefits:
+This environment offers a series of significant benefits for Big Data processing:
 
-- *Processamento em Tempo Real*: Com o Apache Kafka, somos capazes de processar streams de dados em tempo real, permitindo análises instantâneas e tomada de decisões em tempo hábil.
-  
-- *Análises Avançadas*: O Apache Spark fornece um ambiente de processamento distribuído para análises avançadas, desde consultas complexas até aprendizado de máquina e processamento de gráficos.
-  
-- *Redução de Latência*: Com a capacidade de processamento distribuído do Apache Spark, conseguimos reduzir a latência das consultas e análises, acelerando o tempo de resposta para nossos usuários.
+- Real-Time Processing: With Apache Kafka, we are able to process streams of data in real-time, enabling instant analysis and timely decision-making.
 
-### Documentação e Manutenção:
-Um manual detalhado foi criado para documentar todos os passos de instalação, configuração e uso do cluster. 
-Isso garante que todos tenha acesso às informações necessárias para operar e manter o sistema de forma eficaz.
+- Advanced Analytics: Apache Spark provides a distributed processing environment for advanced analytics, from complex queries to machine learning and graph processing.
 
-### Conclusão:
-Em resumo, este Ambiente Big Data com Hadoop Pseudodistributed Mode e com Apache Spark é uma ferramenta poderosa para lidar com os desafios do processamento de Big Data. 
-Desde análises em tempo real até análises avançadas, ele permite realizar diversos testes baseada em dados.
+- Latency Reduction: With the distributed processing capacity of Apache Spark, we are able to reduce the latency of queries and analyses, speeding up response times for our users.
+
+### Documentation and Maintenance:
+A detailed manual was created to document all steps of installing, configuring and using the cluster. This ensures that everyone has access to the information needed to operate and maintain the system effectively.
+
+### Conclusion:
+In summary, this Big Data Environment with Hadoop Pseudodistributed Mode and Apache Spark is a powerful tool to deal with the challenges of Big Data processing. From real-time analysis to advanced analysis, it allows you to perform various data-based tests.
